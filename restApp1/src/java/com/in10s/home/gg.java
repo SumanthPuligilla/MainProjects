@@ -59,7 +59,7 @@ public class gg {
             } else {
                 nof = temp1 + 1;
             }
-            System.out.println("No. of files to be generated :" + nof);
+            System.out.println("No. of files to be generweweewweated :" + nof);
 
             // splitting of file into multiple files
             FileInputStream fstream = new FileInputStream(inputfile);
