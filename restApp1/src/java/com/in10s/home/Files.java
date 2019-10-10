@@ -22,7 +22,7 @@ public class Files {
            br = new BufferedReader(new FileReader("C:\\Users\\Administrator\\Desktop\\VODAFONE\\Configurations.properties"));		
 
            //One way of reading the file
-	   System.out.println("Reading the file using readLine() method:");
+	   System.out.println("Reading the file using readLine() methoeeed:");
 	   String contentLine = br.readLine();
 	   while (contentLine != null) {
 	      System.out.println(contentLine);
